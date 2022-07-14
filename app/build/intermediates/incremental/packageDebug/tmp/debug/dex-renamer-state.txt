@@ -1,0 +1,4 @@
+#Wed Jul 13 20:01:57 IST 2022
+base.0=C\:\\Users\\ayush\\AndroidStudioProjects\\chattingApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
