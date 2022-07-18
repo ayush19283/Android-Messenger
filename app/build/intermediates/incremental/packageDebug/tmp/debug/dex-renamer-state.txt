@@ -1,4 +1,4 @@
-#Wed Jul 13 20:01:57 IST 2022
-base.0=C\:\\Users\\ayush\\AndroidStudioProjects\\chattingApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sat Jul 16 14:22:23 IST 2022
+base.0=/mnt/sda1/Android/Android-Messenger/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

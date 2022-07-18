@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_parent"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:clickable="true"
+    android:background="?attr/selectableItemBackground"
+    android:foreground="?android:attr/selectableItemBackground">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/iv_song_icon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerVertical="true"
+        android:layout_marginHorizontal="10dp"
+        app:cardElevation="0dp"
+        app:cardCornerRadius="10dp">
+
+        <ImageView
+            android:id="@+id/rounded_user_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/ascii_me"
+            android:scaleType="fitXY"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_centerInParent="true"
+        android:id="@+id/ll_song_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/iv_song_icon"
+        android:orientation="vertical"
+        android:layout_toStartOf="@+id/i_btn_song_config">
+
+
+        <TextView
+            android:id="@+id/tv_song_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textStyle="bold"
+            android:textColor="#4D4D4D"
+            android:text="Ayush"/>
+        <TextView
+            android:id="@+id/tv_artist_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="#303030"
+            android:text="✓ Hi! Ankit Raj"/>
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/i_btn_song_config"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:src="@drawable/ic_three_dots"
+        app:tint="#787878" />
+
+</RelativeLayout>
