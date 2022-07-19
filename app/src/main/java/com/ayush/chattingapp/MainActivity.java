@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
                     t.setText(fcm_token);
 
         });
-        d();
+      //  ();
 
 
 
@@ -58,11 +58,11 @@ public class MainActivity extends AppCompatActivity {
 //        senPushdNotification("fdddddddddd","dffffffffff","dKY1u1ePRKCHZxyjtGXQcc:APA91bF1gZt9rZRLr69EHDTlkEe_DpFZYXSEg6bnsZssNje25-xJgrtS9CqUYlHXWjSbgrI9TIM9i0OKacSJr6t7u7KuKkFirugHxCSMjMQBsgiBQQIHQoLFCRKizOzhQn8IQKJIuL_e");
 //
     }
-    public static void d(){
-        Main m=new Main();
-
-        m.a();
-    }
+//    public static void d(){
+//        Main m=new Main();
+//
+//        m.a();
+//    }
 
 //    public static void senPushdNotification(final String body, final String title, final String fcmToken) {
 //        new AsyncTask<Void, Void, Void>() {
