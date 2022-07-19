@@ -15,6 +15,7 @@ import android.widget.Button;
 import android.widget.RemoteViews;
 import android.widget.TextView;
 
+import androidx.annotation.RequiresApi;
 import androidx.core.app.NotificationCompat;
 
 import com.google.firebase.messaging.FirebaseMessaging;
@@ -24,6 +25,8 @@ import com.google.firebase.messaging.RemoteMessage;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.w3c.dom.Text;
+
+import java.util.Map;
 
 public class FirebaseMessagingReceiver extends FirebaseMessagingService {
 
@@ -37,34 +40,50 @@ public class FirebaseMessagingReceiver extends FirebaseMessagingService {
     // Override onMessageReceived() method to extract the
     // title and
     // body from the message passed in FCM
+
+//    @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     public void
     onMessageReceived(RemoteMessage remoteMessage) {
 
+        System.out.println("fffffffffffffffffffffffffffffffffffffffffffffffffffff"+remoteMessage);
 
 
-        System.out.println("falkfl k  jdflk jadkf kdlfj akljk ");
-        
-        Intent intent = new Intent(this, FirebaseMessagingReceiver.class);
-        PendingIntent contentIntent = PendingIntent.getActivity(this, 0, intent, PendingIntent.FLAG_UPDATE_CURRENT);
+        Map<String, String> data = remoteMessage.getData();
 
-        NotificationCompat.Builder b = new NotificationCompat.Builder(this);
-
-        b.setAutoCancel(true)
-                .setDefaults(Notification.DEFAULT_ALL)
-                .setWhen(System.currentTimeMillis())
-                .setSmallIcon(R.drawable.ic_launcher_background)
-                .setTicker("Hearty365")
-                .setContentTitle("Default notification")
-                .setContentText("Lorem ipsum dolor sit amet, consectetur adipiscing elit.")
-                .setDefaults(Notification.DEFAULT_LIGHTS| Notification.DEFAULT_SOUND)
-                .setContentIntent(contentIntent)
-                .setSound(RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION))
-                .setContentInfo("Info");
+        //you can get your text message here.
+        String text= data.get("text");
+        System.out.println(text);
+//        show_Notification();
 
 
-        NotificationManager notificationManager = (NotificationManager) this.getSystemService(Context.NOTIFICATION_SERVICE);
-        notificationManager.notify(1, b.build());
+
+
 
     }
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public void show_Notification(){
+
+        Intent intent=new Intent(getApplicationContext(),FirebaseMessagingReceiver.class);
+        String CHANNEL_ID="MYCHANNEL";
+        NotificationChannel notificationChannel=new NotificationChannel(CHANNEL_ID,"name",NotificationManager.IMPORTANCE_LOW);
+        PendingIntent pendingIntent=PendingIntent.getActivity(getApplicationContext(),1,intent,0);
+        Notification notification=new Notification.Builder(getApplicationContext(),CHANNEL_ID)
+                .setContentText("Heading")
+                .setContentTitle("subheading")
+                .setContentIntent(pendingIntent)
+                .addAction(android.R.drawable.sym_action_chat,"Title",pendingIntent)
+                .setChannelId(CHANNEL_ID)
+                .setSmallIcon(android.R.drawable.sym_action_chat)
+                .build();
+
+        NotificationManager notificationManager=(NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+        notificationManager.createNotificationChannel(notificationChannel);
+        notificationManager.notify(1,notification);
+
+
+    }
+
+
+
 }

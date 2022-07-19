@@ -6,6 +6,7 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Message;
 import android.util.Log;
+import android.widget.TextView;
 
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.InstanceIdResult;
@@ -21,19 +22,28 @@ import okhttp3.Response;
 
 public class MainActivity extends AppCompatActivity {
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Main.tt=findViewById(R.id.fd);
+        TextView t;
+        t=findViewById(R.id.fd);
+
         FirebaseInstanceId.getInstance().getInstanceId().addOnSuccessListener(instanceIdResult -> {
                     String fcm_token = instanceIdResult.getToken();
 
-                    System.out.println(fcm_token);
-                    Log.d("MYTAG", "This is your Firebase token" + fcm_token);
-                    Main.tt.setText(fcm_token);
+//                    System.out.println(fcm_token);
+//                    Log.d("MYTAG", "This is your Firebase token" + fcm_token);
+                    t.setText(fcm_token);
 
         });
+        d();
+
+
+
+
+
 
 //        FirebaseInstanceId.getInstance().getInstanceId().addOnSuccessListener(instanceIdResult -> {
 //            String fcm_token = instanceIdResult.getToken();
@@ -47,6 +57,11 @@ public class MainActivity extends AppCompatActivity {
 //        });
 //        senPushdNotification("fdddddddddd","dffffffffff","dKY1u1ePRKCHZxyjtGXQcc:APA91bF1gZt9rZRLr69EHDTlkEe_DpFZYXSEg6bnsZssNje25-xJgrtS9CqUYlHXWjSbgrI9TIM9i0OKacSJr6t7u7KuKkFirugHxCSMjMQBsgiBQQIHQoLFCRKizOzhQn8IQKJIuL_e");
 //
+    }
+    public static void d(){
+        Main m=new Main();
+
+        m.a();
     }
 
 //    public static void senPushdNotification(final String body, final String title, final String fcmToken) {

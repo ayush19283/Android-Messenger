@@ -5,6 +5,11 @@ plugins {
 
 android {
     compileSdk 32
+    useLibrary 'org.apache.http.legacy'
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+    }
 
     defaultConfig {
         applicationId "com.ayush.chattingapp"
@@ -14,6 +19,7 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
     }
 
     buildTypes {
@@ -31,8 +37,10 @@ android {
 dependencies {
     implementation 'com.google.firebase:firebase-core:17.2.1'
 
+    implementation group: 'org.apache.httpcomponents', name: 'httpmime', version: '4.3.1'
 
-
+    implementation 'org.apache.httpcomponents:httpcore:4.4.1'
+    implementation 'org.apache.httpcomponents:httpclient:4.5'
     implementation 'androidx.appcompat:appcompat:1.4.2'
     implementation 'com.google.android.material:material:1.6.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
