@@ -4,7 +4,7 @@
             "outputFile": "com.ayush.chattingapp-mergeDebugResources-27:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\d61db88b823ed5f40ecdc6a5c0d80900\\transformed\\material-1.6.1\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "/home/ankit/.gradle/caches/transforms-3/d61db88b823ed5f40ecdc6a5c0d80900/transformed/material-1.6.1/res/values-small-v4/values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

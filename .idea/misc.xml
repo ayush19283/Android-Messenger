@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/drawable/ic_send.xml" value="0.156" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/drawable/ic_three_dots.xml" value="0.156" />
         <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/activity_main.xml" value="0.20244565217391305" />
       </map>
     </option>

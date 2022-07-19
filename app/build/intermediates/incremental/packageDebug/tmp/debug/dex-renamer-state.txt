@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 #Fri Jul 15 22:12:57 IST 2022
 base.1=C\:\\Users\\ayush\\AndroidStudioProjects\\chattingApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
 path.1=classes2.dex
 base.0=C\:\\Users\\ayush\\AndroidStudioProjects\\chattingApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.1=classes2.dex
+=======
+#Sat Jul 16 14:22:23 IST 2022
+base.0=/mnt/sda1/Android/Android-Messenger/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+>>>>>>> f913745d7eae4601faddb6f1a0566a14f004a1a7
 renamed.0=classes.dex
 path.0=classes.dex
