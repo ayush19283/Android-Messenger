@@ -4,41 +4,7 @@
             "outputFile": "com.ayush.chattingapp-mergeDebugResources-27:/values-ka/values-ka.xml",
             "map": [
                 {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/57d15226fad3546e0984b3805c81511c/transformed/core-1.7.0/res/values-ka/values-ka.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "107",
-                        "startColumns": "4",
-                        "startOffsets": "10243",
-                        "endColumns": "100",
-                        "endOffsets": "10339"
-                    }
-                },
-                {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/9c0dd8c9b8d77941d445d7883c7b06ed/transformed/firebase-messaging-20.2.4/res/values-ka/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "207",
-                        "endColumns": "104",
-                        "endOffsets": "311"
-                    },
-                    "to": {
-                        "startLines": "57",
-                        "startColumns": "4",
-                        "startOffsets": "6250",
-                        "endColumns": "108",
-                        "endOffsets": "6354"
-                    }
-                },
-                {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/d61db88b823ed5f40ecdc6a5c0d80900/transformed/material-1.6.1/res/values-ka/values-ka.xml",
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\d61db88b823ed5f40ecdc6a5c0d80900\\transformed\\material-1.6.1\\res\\values-ka\\values-ka.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +23,24 @@
                     }
                 },
                 {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/bda9d1bf0b662a6eb33e9114ea832e74/transformed/appcompat-1.4.2/res/values-ka/values-ka.xml",
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\9c0dd8c9b8d77941d445d7883c7b06ed\\transformed\\firebase-messaging-20.2.4\\res\\values-ka\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "104",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "57",
+                        "startColumns": "4",
+                        "startOffsets": "6250",
+                        "endColumns": "108",
+                        "endOffsets": "6354"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\bda9d1bf0b662a6eb33e9114ea832e74\\transformed\\appcompat-1.4.2\\res\\values-ka\\values-ka.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -74,24 +57,7 @@
                     }
                 },
                 {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/64cbac036544346f9c982f671f3d0241/transformed/play-services-base-17.0.0/res/values-ka/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "245,348,529,655,763,976,1108,1256,1389,1621,1727,1913,2039,2259,2424,2516,2603",
-                        "endColumns": "102,180,125,107,212,131,147,132,231,105,185,125,219,164,91,86,100",
-                        "endOffsets": "347,528,654,762,975,1107,1255,1388,1620,1726,1912,2038,2258,2423,2515,2602,2703"
-                    },
-                    "to": {
-                        "startLines": "37,38,39,40,41,42,43,44,46,47,48,49,50,51,52,53,54",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3377,3484,3665,3795,3907,4120,4256,4408,4747,4979,5089,5275,5405,5625,5794,5890,5981",
-                        "endColumns": "106,180,129,111,212,135,151,136,231,109,185,129,219,168,95,90,104",
-                        "endOffsets": "3479,3660,3790,3902,4115,4251,4403,4540,4974,5084,5270,5400,5620,5789,5885,5976,6081"
-                    }
-                },
-                {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/0fa940e98f3530d743abc95b72c61966/transformed/play-services-basement-17.0.0/res/values-ka/values.xml",
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\0fa940e98f3530d743abc95b72c61966\\transformed\\play-services-basement-17.0.0\\res\\values-ka\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -105,6 +71,40 @@
                         "startOffsets": "4545",
                         "endColumns": "201",
                         "endOffsets": "4742"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\57d15226fad3546e0984b3805c81511c\\transformed\\core-1.7.0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "107",
+                        "startColumns": "4",
+                        "startOffsets": "10243",
+                        "endColumns": "100",
+                        "endOffsets": "10339"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\64cbac036544346f9c982f671f3d0241\\transformed\\play-services-base-17.0.0\\res\\values-ka\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,348,529,655,763,976,1108,1256,1389,1621,1727,1913,2039,2259,2424,2516,2603",
+                        "endColumns": "102,180,125,107,212,131,147,132,231,105,185,125,219,164,91,86,100",
+                        "endOffsets": "347,528,654,762,975,1107,1255,1388,1620,1726,1912,2038,2258,2423,2515,2602,2703"
+                    },
+                    "to": {
+                        "startLines": "37,38,39,40,41,42,43,44,46,47,48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3377,3484,3665,3795,3907,4120,4256,4408,4747,4979,5089,5275,5405,5625,5794,5890,5981",
+                        "endColumns": "106,180,129,111,212,135,151,136,231,109,185,129,219,168,95,90,104",
+                        "endOffsets": "3479,3660,3790,3902,4115,4251,4403,4540,4974,5084,5270,5400,5620,5789,5885,5976,6081"
                     }
                 }
             ]

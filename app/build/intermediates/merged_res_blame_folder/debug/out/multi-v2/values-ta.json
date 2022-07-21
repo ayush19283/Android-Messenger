@@ -4,41 +4,7 @@
             "outputFile": "com.ayush.chattingapp-mergeDebugResources-27:/values-ta/values-ta.xml",
             "map": [
                 {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/64cbac036544346f9c982f671f3d0241/transformed/play-services-base-17.0.0/res/values-ta/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "245,348,532,657,761,972,1098,1237,1363,1605,1710,1894,2027,2240,2422,2510,2599",
-                        "endColumns": "102,183,124,103,210,125,138,125,241,104,183,132,212,181,87,88,105",
-                        "endOffsets": "347,531,656,760,971,1097,1236,1362,1604,1709,1893,2026,2239,2421,2509,2598,2704"
-                    },
-                    "to": {
-                        "startLines": "37,38,39,40,41,42,43,44,46,47,48,49,50,51,52,53,54",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3438,3545,3729,3858,3966,4177,4307,4450,4805,5047,5156,5340,5477,5690,5876,5968,6061",
-                        "endColumns": "106,183,128,107,210,129,142,129,241,108,183,136,212,185,91,92,109",
-                        "endOffsets": "3540,3724,3853,3961,4172,4302,4445,4575,5042,5151,5335,5472,5685,5871,5963,6056,6166"
-                    }
-                },
-                {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/57d15226fad3546e0984b3805c81511c/transformed/core-1.7.0/res/values-ta/values-ta.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "107",
-                        "startColumns": "4",
-                        "startOffsets": "10447",
-                        "endColumns": "100",
-                        "endOffsets": "10543"
-                    }
-                },
-                {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/d61db88b823ed5f40ecdc6a5c0d80900/transformed/material-1.6.1/res/values-ta/values-ta.xml",
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\d61db88b823ed5f40ecdc6a5c0d80900\\transformed\\material-1.6.1\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/0fa940e98f3530d743abc95b72c61966/transformed/play-services-basement-17.0.0/res/values-ta/values.xml",
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\0fa940e98f3530d743abc95b72c61966\\transformed\\play-services-basement-17.0.0\\res\\values-ta\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -74,7 +40,24 @@
                     }
                 },
                 {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/bda9d1bf0b662a6eb33e9114ea832e74/transformed/appcompat-1.4.2/res/values-ta/values-ta.xml",
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\64cbac036544346f9c982f671f3d0241\\transformed\\play-services-base-17.0.0\\res\\values-ta\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,348,532,657,761,972,1098,1237,1363,1605,1710,1894,2027,2240,2422,2510,2599",
+                        "endColumns": "102,183,124,103,210,125,138,125,241,104,183,132,212,181,87,88,105",
+                        "endOffsets": "347,531,656,760,971,1097,1236,1362,1604,1709,1893,2026,2239,2421,2509,2598,2704"
+                    },
+                    "to": {
+                        "startLines": "37,38,39,40,41,42,43,44,46,47,48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3438,3545,3729,3858,3966,4177,4307,4450,4805,5047,5156,5340,5477,5690,5876,5968,6061",
+                        "endColumns": "106,183,128,107,210,129,142,129,241,108,183,136,212,185,91,92,109",
+                        "endOffsets": "3540,3724,3853,3961,4172,4302,4445,4575,5042,5151,5335,5472,5685,5871,5963,6056,6166"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\bda9d1bf0b662a6eb33e9114ea832e74\\transformed\\appcompat-1.4.2\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -91,7 +74,24 @@
                     }
                 },
                 {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/9c0dd8c9b8d77941d445d7883c7b06ed/transformed/firebase-messaging-20.2.4/res/values-ta/values.xml",
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\57d15226fad3546e0984b3805c81511c\\transformed\\core-1.7.0\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "107",
+                        "startColumns": "4",
+                        "startOffsets": "10447",
+                        "endColumns": "100",
+                        "endOffsets": "10543"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\9c0dd8c9b8d77941d445d7883c7b06ed\\transformed\\firebase-messaging-20.2.4\\res\\values-ta\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

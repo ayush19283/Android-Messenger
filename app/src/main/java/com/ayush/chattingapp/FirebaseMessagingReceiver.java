@@ -11,7 +11,9 @@ import android.os.Build;
 import android.os.Handler;
 import android.os.Looper;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.widget.Button;
+import android.widget.RelativeLayout;
 import android.widget.RemoteViews;
 import android.widget.TextView;
 
@@ -45,6 +47,8 @@ public class FirebaseMessagingReceiver extends FirebaseMessagingService {
     @Override
     public void
     onMessageReceived(RemoteMessage remoteMessage) {
+        Database db=new Database(this);
+//        LayoutInflater inflater = (LayoutInflater)this.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 
         System.out.println("fffffffffffffffffffffffffffffffffffffffffffffffffffff"+remoteMessage);
 
@@ -53,7 +57,14 @@ public class FirebaseMessagingReceiver extends FirebaseMessagingService {
 
         //you can get your text message here.
         String text= data.get("text");
+        String text1= data.get("sender");
         System.out.println(text);
+        db.message(text1,Globals.uname,text,1);
+//        RelativeLayout child_ll = (RelativeLayout) getLayoutInflater().inflate(R.layout.message_outgoing, null);
+        if(text1.matches(Globals.uname)){
+        TextView chile_txt_view = Globals.rl.findViewById(R.id.out);
+        chile_txt_view.setText(text);
+        Globals.ll.addView(Globals.rl);}
 //        show_Notification();
 
 
@@ -61,28 +72,28 @@ public class FirebaseMessagingReceiver extends FirebaseMessagingService {
 
 
     }
-    @RequiresApi(api = Build.VERSION_CODES.O)
-    public void show_Notification(){
-
-        Intent intent=new Intent(getApplicationContext(),FirebaseMessagingReceiver.class);
-        String CHANNEL_ID="MYCHANNEL";
-        NotificationChannel notificationChannel=new NotificationChannel(CHANNEL_ID,"name",NotificationManager.IMPORTANCE_LOW);
-        PendingIntent pendingIntent=PendingIntent.getActivity(getApplicationContext(),1,intent,0);
-        Notification notification=new Notification.Builder(getApplicationContext(),CHANNEL_ID)
-                .setContentText("Heading")
-                .setContentTitle("subheading")
-                .setContentIntent(pendingIntent)
-                .addAction(android.R.drawable.sym_action_chat,"Title",pendingIntent)
-                .setChannelId(CHANNEL_ID)
-                .setSmallIcon(android.R.drawable.sym_action_chat)
-                .build();
-
-        NotificationManager notificationManager=(NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
-        notificationManager.createNotificationChannel(notificationChannel);
-        notificationManager.notify(1,notification);
-
-
-    }
+//    @RequiresApi(api = Build.VERSION_CODES.O)
+//    public void show_Notification(){
+//
+//        Intent intent=new Intent(getApplicationContext(),FirebaseMessagingReceiver.class);
+//        String CHANNEL_ID="MYCHANNEL";
+//        NotificationChannel notificationChannel=new NotificationChannel(CHANNEL_ID,"name",NotificationManager.IMPORTANCE_LOW);
+//        PendingIntent pendingIntent=PendingIntent.getActivity(getApplicationContext(),1,intent,0);
+//        Notification notification=new Notification.Builder(getApplicationContext(),CHANNEL_ID)
+//                .setContentText("Heading")
+//                .setContentTitle("subheading")
+//                .setContentIntent(pendingIntent)
+//                .addAction(android.R.drawable.sym_action_chat,"Title",pendingIntent)
+//                .setChannelId(CHANNEL_ID)
+//                .setSmallIcon(android.R.drawable.sym_action_chat)
+//                .build();
+//
+//        NotificationManager notificationManager=(NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+//        notificationManager.createNotificationChannel(notificationChannel);
+//        notificationManager.notify(1,notification);
+//
+//
+//    }
 
 
 

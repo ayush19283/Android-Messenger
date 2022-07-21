@@ -6,7 +6,13 @@
         <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/drawable/ic_send.xml" value="0.156" />
         <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/drawable/ic_three_dots.xml" value="0.156" />
         <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/activity_main.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/activity_main2.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/chat_container.xml" value="0.16576086956521738" />
         <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/chat_view.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/home.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/message_incoming.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/message_outgoing.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/message_view.xml" value="0.16576086956521738" />
       </map>
     </option>
   </component>

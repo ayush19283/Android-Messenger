@@ -4,7 +4,7 @@
             "outputFile": "com.ayush.chattingapp-mergeDebugResources-27:/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/bda9d1bf0b662a6eb33e9114ea832e74/transformed/appcompat-1.4.2/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\bda9d1bf0b662a6eb33e9114ea832e74\\transformed\\appcompat-1.4.2\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

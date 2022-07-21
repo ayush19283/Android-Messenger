@@ -4,7 +4,7 @@
             "outputFile": "com.ayush.chattingapp-mergeDebugResources-27:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/home/ankit/.gradle/caches/transforms-3/d61db88b823ed5f40ecdc6a5c0d80900/transformed/material-1.6.1/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+                    "source": "C:\\Users\\ayush\\.gradle\\caches\\transforms-3\\d61db88b823ed5f40ecdc6a5c0d80900\\transformed\\material-1.6.1\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

@@ -21,6 +21,20 @@
             android:textSize="25sp"
             />
 
+        <Button
+            android:id="@+id/search"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="330dp"
+            android:background="@drawable/search"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/get"
+            android:imeOptions="actionSearch"
+            android:visibility="gone"/>
+
     </RelativeLayout>
     <ScrollView
         android:id="@+id/sv_main"
@@ -35,20 +49,20 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
             <!-- Remove these -->
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
-            <include layout="@layout/chat_container"/>
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
+<!--            <include layout="@layout/chat_container"/>-->
 
         </LinearLayout>
 
