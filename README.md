@@ -9,4 +9,4 @@
 
 # Login page
 ## connected with backend to store and verify the required information
-![image](https://github.com/ayush19283/Android-Messenger/blob/main/Screenshot/login.jpg)
+<img src="https://github.com/ayush19283/Android-Messenger/blob/main/Screenshot/login.jpg" width="35px">
