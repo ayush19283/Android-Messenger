@@ -1,4 +1,4 @@
-com.ayush.chattingapp
+com.ayush.chatdemo3
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1213,6 +1213,7 @@ color background_floating_material_light
 color background_material_dark
 color background_material_light
 color black
+color blue
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -1283,6 +1284,7 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color green
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color m3_appbar_overlay_color
@@ -2459,9 +2461,9 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
-drawable ascii_me_background
 drawable avd_hide_password
 drawable avd_show_password
+drawable ayush
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2497,18 +2499,21 @@ drawable design_snackbar_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_clock_black_24dp
+drawable ic_home_icon
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
+drawable ic_msg
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_send
 drawable ic_three_dots
+drawable ic_three_dots_vertical_svgrepo_com
 drawable incoming
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
@@ -2552,6 +2557,9 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable outgoing
+drawable popup_menu
+drawable rectangle
+drawable search
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -2640,6 +2648,7 @@ id antiClockwise
 id anticipate
 id arc
 id asConfigured
+id ask_reg
 id async
 id auto
 id autoComplete
@@ -2671,6 +2680,7 @@ id chain
 id chain2
 id chains
 id chats
+id chats_list
 id checkbox
 id checked
 id chip
@@ -2689,6 +2699,7 @@ id collapseActionView
 id compress
 id confirm_button
 id constraint
+id contact
 id container
 id content
 id contentPanel
@@ -2733,12 +2744,11 @@ id dragUp
 id dropdown_editable
 id dropdown_menu
 id dropdown_noneditable
-id e1
-id e2
 id easeIn
 id easeInOut
 id easeOut
 id east
+id editTextInput
 id edit_query
 id edittext_dropdown_editable
 id edittext_dropdown_noneditable
@@ -2747,11 +2757,11 @@ id end
 id endToStart
 id enterAlways
 id enterAlwaysCollapsed
+id et
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
-id fd
 id fill
 id fill_horizontal
 id fill_vertical
@@ -2768,6 +2778,7 @@ id forever
 id fragment_container_view_tag
 id frost
 id fullscreen_header
+id get
 id ghost_view
 id ghost_view_holder
 id gone
@@ -2792,15 +2803,12 @@ id ignore
 id ignoreRequest
 id image
 id immediateStop
+id in
 id included
 id info
 id invisible
 id inward
 id italic
-id item1
-id item2
-id item3
-id item4
 id item_touch_helper_previous_elevation
 id iv_song_icon
 id jumpToEnd
@@ -2817,7 +2825,9 @@ id linear
 id listMode
 id list_item
 id ll_song_info
-id log
+id log_username
+id login
+id logo
 id masked
 id match_constraint
 id match_parent
@@ -2895,10 +2905,14 @@ id north
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id nu
 id off
 id on
 id onInterceptTouchReturnSwipe
+id one
 id online_status
+id options
+id out
 id outline
 id outward
 id overshoot
@@ -2921,6 +2935,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id register
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2940,6 +2955,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id search
 id search_badge
 id search_bar
 id search_button
@@ -3043,8 +3059,8 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
-id tv_artist_info
 id tv_song_info
+id two
 id unchecked
 id uniform
 id unlabeled
@@ -3056,6 +3072,7 @@ id vertical_only
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
+id view_tree_on_back_pressed_dispatcher_owner
 id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
@@ -3163,10 +3180,13 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_chats
+layout activity_login
 layout activity_main
-layout activity_main2
+layout activity_register
 layout chat_container
-layout chat_view
+layout check
+layout contacts
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3183,7 +3203,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout home
+layout dialog_layout
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3203,8 +3223,6 @@ layout material_timepicker
 layout material_timepicker_dialog
 layout material_timepicker_textinput_display
 layout message_incoming
-layout message_outgoing
-layout message_view
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
@@ -3241,6 +3259,7 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout outgoing_message
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -3261,14 +3280,10 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
-menu example_menu
-menu example_menu2
-mipmap ascii_me
-mipmap ascii_me_foreground
-mipmap ascii_me_round
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+raw firebase_common_keep
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -3944,7 +3959,7 @@ style Theme_AppCompat_Light_Dialog_MinWidth
 style Theme_AppCompat_Light_DialogWhenLarge
 style Theme_AppCompat_Light_NoActionBar
 style Theme_AppCompat_NoActionBar
-style Theme_ChattingApp
+style Theme_Chatdemo3
 style Theme_Design
 style Theme_Design_BottomSheetDialog
 style Theme_Design_Light

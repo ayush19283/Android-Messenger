@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
     <color name="black">#FF000000</color>
+    <color name="blue">#1AA7EC</color>
+    <color name="green">#339966</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="app_name">chattingApp</string>
-    <string name="default_web_client_id" translatable="false">794324414751-soou752fuhdd89hu54h4b2ga2mc86i83.apps.googleusercontent.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">794324414751</string>
-    <string name="google_api_key" translatable="false">AIzaSyAQ1dcUCJbOTrjtR-2ZoL3WJMnIwvIVl28</string>
-    <string name="google_app_id" translatable="false">1:794324414751:android:f1e365cf06c89411c9402a</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAQ1dcUCJbOTrjtR-2ZoL3WJMnIwvIVl28</string>
-    <string name="google_storage_bucket" translatable="false">ayushproject-14524.appspot.com</string>
-    <string name="project_id" translatable="false">ayushproject-14524</string>
-    <style name="Theme.ChattingApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <string name="app_name">chatdemo3</string>
+    <string name="default_web_client_id" translatable="false">624385691578-n9n1cpc2210uvdcdqf40s29i8428837o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">624385691578</string>
+    <string name="google_api_key" translatable="false">AIzaSyACpslmxNGdrXtNSDm6hLAVlPhgFuVoDSU</string>
+    <string name="google_app_id" translatable="false">1:624385691578:android:e89cb3ae8a7ba817ffd783</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyACpslmxNGdrXtNSDm6hLAVlPhgFuVoDSU</string>
+    <string name="google_storage_bucket" translatable="false">theayush-8f543.appspot.com</string>
+    <string name="project_id" translatable="false">theayush-8f543</string>
+    <style name="Theme.Chatdemo3" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>

@@ -3,16 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/drawable/ic_send.xml" value="0.156" />
-        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/drawable/ic_three_dots.xml" value="0.156" />
-        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/activity_main.xml" value="0.20244565217391305" />
-        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/activity_main2.xml" value="0.16576086956521738" />
-        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/chat_container.xml" value="0.16576086956521738" />
-        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/chat_view.xml" value="0.16576086956521738" />
-        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/home.xml" value="0.16576086956521738" />
-        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/message_incoming.xml" value="0.16576086956521738" />
-        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/message_outgoing.xml" value="0.16576086956521738" />
-        <entry key="..\:/Users/ayush/AndroidStudioProjects/chattingApp/app/src/main/res/layout/message_view.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/drawable/ic_msg.xml" value="0.13" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/drawable/ic_send.xml" value="0.13" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/drawable/ic_three_dots.xml" value="0.1175" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/drawable/ic_three_dots_vertical_svgrepo_com.xml" value="0.156" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/drawable/incoming.xml" value="0.13" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/drawable/outgoing.xml" value="0.13" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/drawable/popup_menu.xml" value="0.156" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/drawable/rectangle.xml" value="0.156" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/layout/activity_chats.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/layout/activity_login.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/layout/activity_main.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/layout/activity_register.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/layout/chat_container.xml" value="0.2" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/layout/check.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/layout/contacts.xml" value="0.16614583333333333" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/layout/dialog_layout.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/layout/message_incoming.xml" value="0.2" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/chatdemo32/app/src/main/res/layout/outgoing_message.xml" value="0.19166666666666668" />
       </map>
     </option>
   </component>

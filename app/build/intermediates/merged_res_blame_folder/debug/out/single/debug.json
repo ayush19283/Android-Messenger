@@ -1,282 +1,298 @@
 [
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-mdpi_ic_three_dots.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-mdpi\\ic_three_dots.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable_search.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\drawable\\search.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\layout_home.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\layout\\home.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxhdpi_ic_msg.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxhdpi\\ic_msg.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xhdpi_ascii_me.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xhdpi\\ascii_me.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\layout_activity_chats.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\layout\\activity_chats.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-ldpi_ic_three_dots.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-ldpi\\ic_three_dots.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-ldpi_ic_three_dots.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-ldpi\\ic_three_dots.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-anydpi-v21_ic_msg.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-anydpi-v21\\ic_msg.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xxhdpi_ic_three_dots.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xxhdpi\\ic_three_dots.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-anydpi-v21_ascii_me_background.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-anydpi-v21\\ascii_me_background.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-hdpi_ic_three_dots_vertical_svgrepo_com.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-hdpi\\ic_three_dots_vertical_svgrepo_com.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\layout_chat_container.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\layout\\chat_container.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-ldpi_ic_three_dots_vertical_svgrepo_com.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-ldpi\\ic_three_dots_vertical_svgrepo_com.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-anydpi-v21_ic_send.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-anydpi-v21\\ic_send.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable_ayush.jpg.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\drawable\\ayush.jpg"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xhdpi_ascii_me_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xhdpi\\ascii_me_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xxhdpi_ascii_me_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xxhdpi\\ascii_me_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-anydpi-v21_ic_home_icon.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-anydpi-v21\\ic_home_icon.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\layout_outgoing_message.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\layout\\outgoing_message.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-mdpi_ic_send.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-mdpi\\ic_send.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xxxhdpi_ascii_me_foreground.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xxxhdpi\\ascii_me_foreground.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxhdpi_ic_three_dots_vertical_svgrepo_com.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxhdpi\\ic_three_dots_vertical_svgrepo_com.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-mdpi_ic_three_dots_vertical_svgrepo_com.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-mdpi\\ic_three_dots_vertical_svgrepo_com.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xxhdpi_ascii_me_round.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xxhdpi\\ascii_me_round.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxxhdpi_ic_three_dots_vertical_svgrepo_com.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxxhdpi\\ic_three_dots_vertical_svgrepo_com.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-anydpi-v26_ascii_me_round.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-anydpi-v26\\ascii_me_round.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-mdpi_ic_home_icon.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-mdpi\\ic_home_icon.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-anydpi-v21_ic_three_dots.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-anydpi-v21\\ic_three_dots.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-anydpi-v26_ascii_me.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-anydpi-v26\\ascii_me.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-mdpi_ic_three_dots.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-mdpi\\ic_three_dots.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\layout_chat_view.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\layout\\chat_view.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-mdpi_ic_send.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-mdpi\\ic_send.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xhdpi_ascii_me_foreground.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xhdpi\\ascii_me_foreground.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable_outgoing.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\drawable\\outgoing.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-ldpi_ic_home_icon.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-ldpi\\ic_home_icon.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xxxhdpi_ic_three_dots.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xxxhdpi\\ic_three_dots.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xhdpi_ic_three_dots_vertical_svgrepo_com.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xhdpi\\ic_three_dots_vertical_svgrepo_com.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xxxhdpi_ic_send.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xxxhdpi\\ic_send.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxxhdpi_ic_msg.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxxhdpi\\ic_msg.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-hdpi_ascii_me.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-hdpi\\ascii_me.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable_incoming.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\drawable\\incoming.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xxhdpi_ascii_me.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xxhdpi\\ascii_me.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xhdpi_ic_three_dots.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xhdpi\\ic_three_dots.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-anydpi-v21_ic_three_dots_vertical_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-anydpi-v21\\ic_three_dots_vertical_svgrepo_com.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\layout_chat_container.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\layout\\chat_container.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxxhdpi_ic_three_dots.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxxhdpi\\ic_three_dots.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\layout_message_view.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\layout\\message_view.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\layout_check.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\layout\\check.xml"
     },
     {
-        "merged": "com.ayush.chattingapp-merged_res-29:/layout_activity_main2.xml.flat",
-        "source": "com.ayush.chattingapp-main-31:/layout/activity_main2.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-hdpi_ascii_me_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-hdpi\\ascii_me_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\layout\\activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xhdpi_ascii_me_round.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xhdpi\\ascii_me_round.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-ldpi_ascii_me_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-ldpi\\ascii_me_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\layout\\dialog_layout.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xxxhdpi_ascii_me_round.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xxxhdpi\\ascii_me_round.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-hdpi_ic_three_dots.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-hdpi\\ic_three_dots.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xxhdpi_ic_send.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xxhdpi\\ic_send.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-hdpi_ascii_me_foreground.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-hdpi\\ascii_me_foreground.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-mdpi_ascii_me_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-mdpi\\ascii_me_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxhdpi_ic_home_icon.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxhdpi\\ic_home_icon.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\layout_message_incoming.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\layout\\message_incoming.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\layout_contacts.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\layout\\contacts.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xhdpi_ic_three_dots.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xhdpi\\ic_three_dots.png"
+        "merged": "com.ayush.chatdemo3.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.ayush.chatdemo3.app-main-36:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\drawable\\rectangle.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-anydpi-v21_ic_three_dots.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-anydpi-v21\\ic_three_dots.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxhdpi_ic_three_dots.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxhdpi\\ic_three_dots.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-mdpi_ascii_me_foreground.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-mdpi\\ascii_me_foreground.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-mdpi_ic_msg.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-mdpi\\ic_msg.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-hdpi_ic_three_dots.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-hdpi\\ic_three_dots.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-ldpi_ic_send.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-ldpi\\ic_send.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxhdpi_ic_send.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxhdpi\\ic_send.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xhdpi_ic_send.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xhdpi\\ic_send.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xhdpi_ic_home_icon.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xhdpi\\ic_home_icon.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable_outgoing.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\drawable\\outgoing.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xxxhdpi_ascii_me.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xxxhdpi\\ascii_me.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xhdpi_ic_msg.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xhdpi\\ic_msg.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-anydpi-v21_ic_send.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-anydpi-v21\\ic_send.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-xxhdpi_ascii_me_foreground.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-xxhdpi\\ascii_me_foreground.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-hdpi_ic_home_icon.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-hdpi\\ic_home_icon.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-mdpi_ascii_me_round.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-mdpi\\ascii_me_round.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxxhdpi_ic_home_icon.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxxhdpi\\ic_home_icon.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-hdpi_ic_send.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-hdpi\\ic_send.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-mdpi_ascii_me.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-mdpi\\ascii_me.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-hdpi_ic_msg.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-hdpi\\ic_msg.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xxxhdpi_ascii_me_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xxxhdpi\\ascii_me_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\layout_message_outgoing.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\layout\\message_outgoing.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable_popup_menu.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\drawable\\popup_menu.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable_incoming.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\drawable\\incoming.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-hdpi_ic_send.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-hdpi\\ic_send.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxxhdpi_ic_send.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxxhdpi\\ic_send.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\mipmap-hdpi_ascii_me_round.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-main-31:\\mipmap-hdpi\\ascii_me_round.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\layout_message_incoming.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\layout\\message_incoming.xml"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-xhdpi_ic_send.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-xhdpi\\ic_send.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-merged_res-29:\\drawable-ldpi_ic_send.png.flat",
-        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chattingapp-pngs-24:\\drawable-ldpi\\ic_send.png"
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-merged_res-34:\\drawable-ldpi_ic_msg.png.flat",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\7.3.3\\com.ayush.chatdemo3.app-pngs-29:\\drawable-ldpi\\ic_msg.png"
     }
 ]

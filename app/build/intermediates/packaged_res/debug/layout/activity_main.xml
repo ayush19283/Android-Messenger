@@ -1,22 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:background="#ffffff"
+    android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/fd"
-        android:layout_width="wrap_content"
+    <RelativeLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#339966">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10sp"
+            android:text="Varta"
+            android:gravity="center_vertical"
+            android:textColor="#E1DCDC"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            />
+
+        <Button
+            android:id="@+id/search"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="8dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/ic_three_dots_vertical_svgrepo_com"/>
+
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/get"
+            android:hint="Search username"
+            android:textColorHint="@color/black"
+            android:imeOptions="actionSearch"
+            android:inputType="text"
+            android:backgroundTint="#339966"
+            android:visibility="gone"/>
+
+    </RelativeLayout>
+    <ScrollView
+        android:id="@+id/sv_main"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        android:textSize="20dp"
-        android:textIsSelectable="true"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:layout_below="@+id/toolbar"
+        android:scrollbars="vertical">
 
+        <LinearLayout
+            android:id="@+id/chats_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+            <!-- Remove these -->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
+            <!--            <include layout="@layout/chat_container"/>-->
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chattingApp.iml" filepath="$PROJECT_DIR$/.idea/modules/chattingApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/chattingApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/chattingApp.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/chattingApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/chattingApp.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/chattingApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/chattingApp.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/chattingApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/chattingApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chatdemo3.iml" filepath="$PROJECT_DIR$/.idea/modules/chatdemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/chatdemo3.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/chatdemo3.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/chatdemo3.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/chatdemo3.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/chatdemo3.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/chatdemo3.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/chatdemo3.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/chatdemo3.app.unitTest.iml" />
     </modules>
   </component>
 </project>

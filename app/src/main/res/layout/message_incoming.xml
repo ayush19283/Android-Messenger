@@ -2,18 +2,40 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:background="@drawable/incoming">
+    >
+
     <TextView
+        android:id="@+id/in"
         android:layout_width="wrap_content"
+        android:background="@drawable/rectangle"
         android:layout_height="wrap_content"
-        android:textColor="#515151"
-        android:layout_marginStart="10sp"
-        android:layout_marginTop="5sp"
-        android:paddingStart="20dp"
         android:paddingTop="4dp"
-        android:paddingEnd="5dp"
-        android:paddingBottom="10dp"
+        android:paddingBottom="4dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:textColor="#000000"
         android:maxWidth="300sp"
-        android:text="I know its bit too late for this. For those, who don&apos;t want to use 9-patch images yet want to cast shadows from speech bubble."
-        android:lineSpacingExtra="2dp" />
+        android:layout_alignParentTop="true"
+        android:textSize="18dp"
+        android:text="this is very common nowadays that we are getting lazy"
+
+        />
+
+<!--    <TextView-->
+<!--        android:id="@+id/in"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentStart="true"-->
+<!--        android:layout_marginStart="10dp"-->
+<!--        android:layout_marginTop="15dp"-->
+<!--        android:maxWidth="250dp"-->
+<!--        android:paddingStart="10dp"-->
+<!--        android:paddingTop="4dp"-->
+<!--        android:paddingEnd="20dp"-->
+<!--        android:paddingBottom="10dp"-->
+<!--        android:text="h bubble. And thanks to @toobsco42 for the answer above"-->
+<!--        android:textColor="#000000"-->
+<!--        android:textSize="18dp" />-->
+
 </RelativeLayout>
