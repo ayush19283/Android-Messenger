@@ -98,7 +98,6 @@ public class Login extends AppCompatActivity {
         builder.setView(view);
         builder.setCancelable(false);
         builder.setPositiveButton("YES", (dialog, which) -> {
-            //I want the String pin to be toasted on clicking the "YES" positive button
             EditText editTextPIN = view.findViewById(R.id.editTextInput);
             String pin = editTextPIN.getText().toString();
             Globals.url=pin;
